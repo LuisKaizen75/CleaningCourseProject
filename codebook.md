@@ -37,4 +37,4 @@ The variables meaning are extracted from the original file "features_info.txt"
 * frequency bodybodygyromagnitude mean: no information for "bodybody" variables    
 * frequency bodybodygyromagnitude std: no information for "bodybody" variables     
 * frequency bodybodygyrojerkmagnitude mean: no information for "bodybody" variables
-* "frequency bodybodygyrojerkmagnitude std: no information for "bodybody" variables 
+* frequency bodybodygyrojerkmagnitude std: no information for "bodybody" variables 
